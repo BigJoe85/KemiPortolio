@@ -40,7 +40,7 @@ const Experience = () => {
                 <div className='flex gap-2 items-center '>
                     <h1 className='text-[#e8e8e8] font-medium text-[1.1rem]'>Experience</h1>
                     <div className='bg-[#0a0a0c] border border-gray-800/[0.40] rounded-full text-[10px] py-1 px-2 text-[#a0a0a0]'>
-                        <p>02 Years</p>
+                        <p>04 Years</p>
                     </div>
                 </div>
                 <div className='absolute translate-y-10 translate-x-1 w-[0.5px] h-60 bg-white/20'></div>
